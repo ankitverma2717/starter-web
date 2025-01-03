@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ankit Verma   example@some.com   @witty_some_idli
 
 # THANKS
 
